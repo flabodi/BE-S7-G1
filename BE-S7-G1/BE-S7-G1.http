@@ -1,0 +1,6 @@
+@BE_S7_G1_HostAddress = http://localhost:5222
+
+GET {{BE_S7_G1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
